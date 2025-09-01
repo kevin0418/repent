@@ -67,7 +67,7 @@ st.link_button("Video 를 통해 보기", "https://youtu.be/SCiQePM0xtk")
 
 
 # # PPT 링크 버튼
-st.link_button("PPT 를 통해 보기", "https://kevinoh-holmonpdf.streamlit.app/")
+st.link_button("PPT 를 통해 보기", "https://kevinoh-repentpdf.streamlit.app/")
 st.caption("화면이 안나오면 (zzz) 클릭하고 기다리면 됩니다, 1-2 분정도")
 
 
