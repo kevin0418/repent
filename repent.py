@@ -53,7 +53,7 @@ st.write("### 심령이 가난한자 , 누구 ! 👋")
 
 # 설명 텍스트 (bold 및 색상 적용)
 st.markdown("""
-<span class="highlight">누가 심령이 가난하고 복을 받을수 있으까요</span>  
+<span class="highlight">심령이 가난하다고   복을 받을수 있으까요</span>  
 여기 Kevin이 맛깔나게 답을 풀어 냅니다.  
 <span class="highlight">아래 3편을 의미 있게 보시길</span>  
 """, unsafe_allow_html=True)
